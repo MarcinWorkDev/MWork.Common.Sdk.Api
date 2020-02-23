@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWork.Common.Sdk.Api", "MWork.Common.Sdk.Api.csproj", "{98AFF93C-9B7B-426E-AB7A-2AFD65BF9D19}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MWork.Common.Sdk.Api", "MWork.Common.Sdk.Api\MWork.Common.Sdk.Api.csproj", "{98AFF93C-9B7B-426E-AB7A-2AFD65BF9D19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
